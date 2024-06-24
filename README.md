@@ -4,6 +4,8 @@
 3. Open new project and added to it the relevent activities, their layouts, the permission to the manifest, and the relevant information from the string.xml
 4. Run the app, and saw it fall after clicking the 'Start Game' button, so after a little search saw that the problem was the URL
 5. Got to the game, get back to the code to understand the rules so I could win
+
+   
 Survived in Ohio
 
 
